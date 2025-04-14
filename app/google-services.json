@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426736952682",
+    "project_id": "sakhii-729ec",
+    "storage_bucket": "sakhii-729ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426736952682:android:5589cfcdb7828bb0427113",
+        "android_client_info": {
+          "package_name": "shrreya.hole.sakhii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzwjsxJNvN5-9Jb6IhPob920wUZl2KfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
